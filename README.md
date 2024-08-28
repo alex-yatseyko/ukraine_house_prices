@@ -55,7 +55,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ukraine-apartment-price-prediction.git
+git clone https://github.com/alex-yatseyko/ukraine_house_prices.git
 cd ukraine-apartment-price-prediction
 Create a virtual environment and activate it:
 
